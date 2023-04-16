@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace PatronVisitor_Tp1
 {
-    namespace PatronVisitor2Iva
+    public class ProductoClase1 : Producto
     {
-        public class ProductoClase1 : Producto
+        public override double Aceptar(IVisitor v)
         {
-            public override double Aceptar(IVisitor v)
-            {
-                return v.Visitar(this);
-            }
+            return v.Visitar(this);
         }
     }
 }
+    
+

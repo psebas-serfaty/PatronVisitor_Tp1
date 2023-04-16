@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronVisitor_Tp1", "PatronVisitor_Tp1.csproj", "{B01408C7-B501-45B1-B4EF-7ED8B15ECCBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_PatronVisistor_Tp1", "..\Test_PatronVisistor_Tp1\Test_PatronVisistor_Tp1.csproj", "{CC2CA851-4BA2-4E57-A773-FA90824030E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B01408C7-B501-45B1-B4EF-7ED8B15ECCBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B01408C7-B501-45B1-B4EF-7ED8B15ECCBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B01408C7-B501-45B1-B4EF-7ED8B15ECCBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2CA851-4BA2-4E57-A773-FA90824030E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2CA851-4BA2-4E57-A773-FA90824030E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2CA851-4BA2-4E57-A773-FA90824030E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2CA851-4BA2-4E57-A773-FA90824030E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
